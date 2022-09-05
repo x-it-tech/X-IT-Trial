@@ -10,7 +10,7 @@ subtitle: "Our company will serve as your Managed Service Provider "
 design:
   background:
     color: "#0f4912"
-    text_color_light: false
+    text_color_light: true
     gradient_start: "#cbdeca"
     image: ""
     gradient_end: "#203b20"
