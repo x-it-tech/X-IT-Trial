@@ -12,5 +12,5 @@ design:
     text_color_light: false
     gradient_start: "#cbdeca"
     image: 150ef3db-34b0-4167-863d-c85979a1819f.jfif
-  columns: ""
+  columns: "1"
 ---
